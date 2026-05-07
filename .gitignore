@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Firebase
+.firebase/
+firebase-debug.log*
+.firebaserc
+firebase.json
+
+# Environment Secrets (Crucial)
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+serviceAccountKey.json
+
+# Build and Output
+dist/
+build/
+out/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.qodo/
+.DS_Store
+Thumbs.db
+
+Backend/secret-config-file.js
+Backend/private-key.json
