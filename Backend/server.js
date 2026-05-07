@@ -21,8 +21,6 @@ const io = new Server(server, {
     origin: [
       'http://localhost:5173',
       'http://localhost:5174',
-      'https://cafeilluminati-fd89a.web.app',
-      'https://cafeilluminati-adminpanel.web.app',
     ],
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
   },
@@ -39,8 +37,6 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:5174',
-    'https://cafeilluminati-fd89a.web.app',
-    'https://cafeilluminati-adminpanel.web.app',
   ],
   credentials: true,
 }));
@@ -64,7 +60,7 @@ connectDB().then(() => {
   server.listen(PORT, () => {
     console.log(`\n☕ TableTalk server running on port ${PORT}`);
     console.log(`📡 Socket.io ready for connections`);
-    console.log(`🌐 Customer app: https://cafeilluminati-fd89a.web.app`);
-    console.log(`🔧 Admin panel:  https://cafeilluminati-adminpanel.web.app\n`);
+    console.log(`🌐 Customer app: http://localhost:5173`);
+    console.log(`🔧 Admin panel:  http://localhost:5174`);
   });
 });
