@@ -83,7 +83,7 @@
     ADMIN_PASSWORD=your_secure_password
     ```
 
-    3. **Install & Launch**
+3. **Install & Launch**
     ```bash
     # Term 1: Backend
     cd Backend && npm install && npm start
@@ -102,3 +102,18 @@
 | :--- | :--- | :---: |
 | **Rajas Deshpande** | **Lead Developer** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RajasDeshpande) |
 | **Sai Chavan** | **Co-Lead Developer** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saichavan6189) |
+
+
+---
+
+## 📧 Contact
+
+### **Rajas Deshpande** (Lead Developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/rajas-deshpande-087589388))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasmd.2008@gmail.com)
+
+### **Sai Chavan** (Co-Lead Developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sai-chavan-639673402/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai2008chavan@gmail.com)
+
+---
