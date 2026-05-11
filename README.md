@@ -69,8 +69,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/RajasDeshpande/PrivateTableTalkDemo.git](https://github.com/RajasDeshpande/PrivateTableTalkDemo.git)
-   cd PrivateTableTalkDemo
+   git clone [https://github.com/RajasDeshpande/CafeMgmtApp.git](https://github.com/RajasDeshpande/CafeMgmtApp.git)
+   cd CafeMgmtApp
    ``` 
 2. **Backend Configuration**:
 
