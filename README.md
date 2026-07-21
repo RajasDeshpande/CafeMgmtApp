@@ -101,7 +101,7 @@
 | Contributor | Role | GitHub Profile |
 | :--- | :--- | :---: |
 | **Rajas Deshpande** | **Lead Developer** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RajasDeshpande) |
-| **Sai Chavan** | **Co-Lead Developer** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saichavan6189) |
+
 
 
 ---
